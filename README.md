@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Upendrafalak&label=Profile%20views&color=3382ed&style=for-the-badge&label=VISITORS" alt="Upendrafalak" /> </p>
 
 - 🌍  I'm based in Mumbai
-- 
+  
 - 🧠 I’m currently learning **ML and DS, DSA**
 
 - 🤝 I’m looking to collaborate on **Web Development Projects**
